@@ -1,10 +1,11 @@
 # 👹 evilbocchi
 
-## 🧬 About Me
+View my personal website here! https://evilbocchi.github.io/
 
+## 🧬 About Me
 - 🧑‍💻 Coding things no one asked for (but everyone needed)
-- 💸 Creator of **JJT Money Empire** (cash out or get out)
-- 🧮 Obsessed with big numbers — check out [alyanum](https://github.com/evilbocchi/alyanum) and [serikanum](https://github.com/evilbocchi/serikanum) (they’re cute, trust)
+- 💸 Creator of **JJT Money Empire**
+- 🧮 Obsessed with big numbers — check out [alyanum](https://github.com/evilbocchi/alyanum) and [serikanum](https://github.com/evilbocchi/serikanum) (they're cute, trust)
 - 🐲 Summoning monsters in [monsters-awakening](https://github.com/Unreal-Works/monsters-awakening) and crawling dungeons in [thenilworld](https://github.com/Unreal-Works/thenilworld)
 - 🧠 GitHub Copilot the goat
 
