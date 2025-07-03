@@ -1,6 +1,7 @@
-# 👹 evilbocchi
-
-View my personal website here! https://evilbocchi.github.io/
+<a href="https://evilbocchi.github.io/">
+<img src="banner.png">
+</a>
+<hr>
 
 ## 🧬 About Me
 - 🧑‍💻 Coding things no one asked for (but everyone needed)
